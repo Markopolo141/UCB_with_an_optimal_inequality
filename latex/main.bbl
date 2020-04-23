@@ -1,0 +1,116 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Audibert et~al.(2009)Audibert, Munos, and
+  Szepesv{\'a}ri]{audibert2009exploration}
+Jean-Yves Audibert, R{\'e}mi Munos, and Csaba Szepesv{\'a}ri.
+\newblock Exploration--exploitation tradeoff using variance estimates in
+  multi-armed bandits.
+\newblock \emph{Theoretical Computer Science}, 410\penalty0 (19):\penalty0
+  1876--1902, 2009.
+
+\bibitem[Auer et~al.(2002)Auer, Cesa-Bianchi, and Fischer]{Auer2002}
+Peter Auer, Nicol{\`o} Cesa-Bianchi, and Paul Fischer.
+\newblock Finite-time analysis of the multiarmed bandit problem.
+\newblock \emph{Machine Learning}, 47\penalty0 (2):\penalty0 235--256, May
+  2002.
+\newblock ISSN 1573-0565.
+
+\bibitem[Boucheron et~al.(2003)Boucheron, Lugosi, and Massart]{article1111333}
+St\'{e}phane Boucheron, G\'{a}bor Lugosi, and Pascal Massart.
+\newblock Concentration inequalities using the entropy method.
+\newblock \emph{The Annals of Probability}, 31, 07 2003.
+
+\bibitem[Capp\'{e} et~al.(2013)Capp\'{e}, Garivier, Maillard, Munos, and
+  Stoltz]{cappe2013}
+Olivier Capp\'{e}, Aur\'{e}lien Garivier, Odalric-Ambrym Maillard, R\'{e}mi
+  Munos, and Gilles Stoltz.
+\newblock Kullback-leibler upper confidence bounds for optimal sequential
+  allocation.
+\newblock \emph{The Annals of Statistics}, 41\penalty0 (3):\penalty0
+  1516--1541, 06 2013.
+
+\bibitem[Carpentier et~al.(2011)Carpentier, Lazaric, Ghavamzadeh, Munos, and
+  Auer]{carpentier2011upper}
+Alexandra Carpentier, Alessandro Lazaric, Mohammad Ghavamzadeh, R{\'e}mi Munos,
+  and Peter Auer.
+\newblock Upper-confidence-bound algorithms for active learning in multi-armed
+  bandits.
+\newblock In \emph{Proceedings of the 22nd International Conference on
+  Algorithmic Learning Theory}, ALT'11, pages 189--203, Berlin, Heidelberg,
+  2011. Springer-Verlag.
+\newblock ISBN 978-3-642-24411-7.
+
+\bibitem[Chv\'{a}tal(1979)]{CHVATAL1979285}
+V.~Chv\'{a}tal.
+\newblock The tail of the hypergeometric distribution.
+\newblock \emph{Discrete Mathematics}, 25\penalty0 (3):\penalty0 285 -- 287,
+  1979.
+
+\bibitem[Efron and Stein(1981)]{efron1981}
+B.~Efron and C.~Stein.
+\newblock The jackknife estimate of variance.
+\newblock \emph{The Annals of Statistics}, 9\penalty0 (3):\penalty0 586--596,
+  05 1981.
+
+\bibitem[Garivier et~al.(2018)Garivier, Hadiji, M\'{e}nard, and
+  Stoltz]{5b3d98cc17c44a510f801b3f}
+Aur\'{e}lien Garivier, H\'{e}di Hadiji, Pierre M\'{e}nard, and Gilles Stoltz.
+\newblock Kl-ucb-switch: optimal regret bounds for stochastic bandits from both
+  a distribution-dependent and a distribution-free viewpoints.
+\newblock \emph{arXiv,stat.ML}, 1805.05071, 2018.
+
+\bibitem[Han et~al.(2013)Han, Tao, Topcu, Owhadi, and Murray]{articleasfasfas}
+Shuo Han, Molei Tao, Ufuk Topcu, Houman Owhadi, and Richard Murray.
+\newblock Convex optimal uncertainty quantification.
+\newblock \emph{SIAM Journal on Optimization}, 25, 11 2013.
+
+\bibitem[Hoeffding(1963)]{10.2307/2282952}
+Wassily Hoeffding.
+\newblock Probability inequalities for sums of bounded random variables.
+\newblock \emph{Journal of the American Statistical Association}, 58\penalty0
+  (301):\penalty0 13--30, 1963.
+
+\bibitem[Lai and Robbins(1985)]{LAI19854}
+T.L Lai and Herbert Robbins.
+\newblock Asymptotically efficient adaptive allocation rules.
+\newblock \emph{Advances in Applied Mathematics}, 6\penalty0 (1):\penalty0 4 --
+  22, 1985.
+
+\bibitem[Maillard et~al.(2011)Maillard, Munos, and
+  Stoltz]{Maillard11afinite-time}
+Odalric{-}ambrym Maillard, R\'{e}mi Munos, and Gilles Stoltz.
+\newblock A finite-time analysis of multiarmed bandits problems with
+  kullback-leibler divergences.
+\newblock In \emph{In Proceedings of the International Conference on
+  Computational Learning Theory (COLT)}, 2011.
+
+\bibitem[Maurer and Pontil(2009)]{maurer2009empirical}
+Andreas Maurer and Massimiliano Pontil.
+\newblock Empirical bernstein bounds and sample variance penalization, 2009.
+
+\bibitem[Mukherjee et~al.(2018)Mukherjee, Naveen, Sudarsanam, and
+  Ravindran]{DBLP:conf/aaai/MukherjeeNSR18}
+Subhojyoti Mukherjee, K.~P. Naveen, Nandan Sudarsanam, and Balaraman Ravindran.
+\newblock Efficient-ucbv: An almost optimal algorithm using variance estimates.
+\newblock In \emph{Proceedings of the Thirty-Second {AAAI} Conference on
+  Artificial Intelligence, (AAAI-18), New Orleans, Louisiana, USA, February
+  2-7, 2018}, pages 6417--6424, 2018.
+
+\bibitem[Owen(1988)]{10.1093/biomet/75.2.237}
+Art~B. Owen.
+\newblock {Empirical likelihood ratio confidence intervals for a single
+  functional}.
+\newblock \emph{Biometrika}, 75\penalty0 (2):\penalty0 237--249, 06 1988.
+
+\bibitem[Owhadi et~al.(2013)Owhadi, Scovel, Sullivan, McKerns, and
+  Ortiz]{doi:10.1137/10080782X}
+H.~Owhadi, C.~Scovel, T.~J. Sullivan, M.~McKerns, and M.~Ortiz.
+\newblock Optimal uncertainty quantification.
+\newblock \emph{SIAM Review}, 55\penalty0 (2):\penalty0 271--345, 2013.
+
+\end{thebibliography}

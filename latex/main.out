@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.0.2}{Making an optimal concentration inequality}{}% 2
+\BOOKMARK [1][-]{section.0.3}{An optimal concentration inequality for finite values}{}% 3
+\BOOKMARK [1][-]{section.0.4}{The optimal concentration inequality for finite support}{}% 4
+\BOOKMARK [2][-]{subsection.0.4.1}{The case of Bernoulli data}{section.0.4}% 5
+\BOOKMARK [2][-]{subsection.0.4.2}{A Kullback-Leibler reformulation}{section.0.4}% 6
+\BOOKMARK [1][-]{section.0.5}{Concluding experiments}{}% 7
+\BOOKMARK [1][-]{section.0.A}{Derivation of the Optimum bound on the mean}{}% 8
+\BOOKMARK [2][-]{subsection.0.A.1}{Characterising the G}{section.0.A}% 9
+\BOOKMARK [1][-]{section.0.B}{Summary Derivation of Hoeffding's inequality}{}% 10
+\BOOKMARK [1][-]{section.0.C}{A note on what concentration inequalities are not}{}% 11
